@@ -22,6 +22,7 @@ print(match)
 
 
 
+
 mail = 'gjhdsgf d@gmail.com її@gmail.com'
 
 res = re.findall(r'[a-z0-9\.\-+_]+@[a-z0-9\.\-+_]+\.[a-z]+', mail)
